@@ -29,14 +29,14 @@
 </marquee>
       
      <p>
-       <h3><a href="index2.html"style=" color: blue">Products Page</a></h3>
+      <h3><a href="index2.html"style=" color: blue">Products Page</a></h3>
       </p>
       <p>
-        <h3><a href="https://www.youtube.com/channel/UCIB5j9bZop_NvcCZ9CycD1w"style=" color: blue">Speedy 3D YouTube</a></h3>
+       <h3><a href="https://www.youtube.com/channel/UCIB5j9bZop_NvcCZ9CycD1w"style=" color: blue">Speedy 3D YouTube</a></h3>
       </p>
       
       <p>
-        <h3><a href="https://forms.gle/xSA6sVbmHShUgNM46"style=" color: blue">Ordering Page</a></h3>
+       <h3><a href="https://forms.gle/xSA6sVbmHShUgNM46"style=" color: blue">Ordering Page</a></h3>
       </p>
       <h2 align="center">About Us</h2>
       <p align="center">Here at Custom Composites our mission is to design cool items that are practical and useful. We want it to be easy and fun for customers to order and get inspiration to create trinkets themselves. Our team would love to have you email us and to get feedback at mattmore2626@gmail.com.</p>
